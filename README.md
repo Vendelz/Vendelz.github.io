@@ -5,5 +5,4 @@ Chakkrit Khaewlek จักรกฤษณ์ แก้วเล็ก 13610007
 
 
 
-
-<img src!="C:/Users/ICT/Documents/GitHub/Vendelz.github.io/AG.jpg" width=120 hight=120>
+![image](AG.jpg)
